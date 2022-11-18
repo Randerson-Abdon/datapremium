@@ -18,5 +18,5 @@ Version: 2.0.0
   - Added SMPTP support for the contact form script (Pro)
   - Added NodeJS NPM Development version (Pro unlimited & Membership members)
   
-Version: 1.0.0
+Version: 2.0.0
   - Initial Release
