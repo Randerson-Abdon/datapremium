@@ -43,7 +43,7 @@
       <nav class="nav-menu d-none d-lg-block">
         <ul>
           <li class="active"><a href="index.php">Home</a></li>
-          <li><a href="#about">Sobre Nós</a></li>
+          <li><a href="#about">Sobre xxx</a></li>
           <li><a href="#services">Serviços</a></li>
           <li><a href="#portfolio">Portfólio</a></li>
           <li><a href="#team">Nossa Equipe</a></li>
